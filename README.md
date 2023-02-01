@@ -13,7 +13,7 @@ High Definition Clothing (HDC) E-Commerce platform created using Laravel Framewo
  - Navigation bar so that the website is easy manuvered.
  - Baskett, so that users can add and remove items they would like to purchase.
 
- ## What Tools We Used to Add These Features in Our Code
+ ## Tools that have been Used for the website
  
  - [Laveral](https://laravel.com/) as the framework to PHP to build the website. 
  - [Composer](https://getcomposer.org/) is a dependancy manager for PHP. 
@@ -22,7 +22,7 @@ High Definition Clothing (HDC) E-Commerce platform created using Laravel Framewo
  - [XAMPP](https://www.apachefriends.org/) to run the local host.
 
 
-## How To Set up This Laravel Project 
+## How To Set up a Laravel Project 
 
 Clone this repo to your local machine using 
 ```
