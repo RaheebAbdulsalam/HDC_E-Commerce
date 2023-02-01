@@ -1,5 +1,5 @@
 # HDC_E-Commerce
-High Definition E-Commerce Website
+High Definition Clothing (HDC) E-Commerce platform created using Laravel Framework
 
 
 <p align="center"> 
